@@ -9,7 +9,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="analiticas")
 public class Analitica {
-	
+	//Hola Javier 
 	//Anotacion de Id y Generated para incrementar id
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
